@@ -1,0 +1,1 @@
+select * from receipt_model;

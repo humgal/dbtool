@@ -1,0 +1,8 @@
+{
+    "MysqlUserName":"root",
+	"MysqlPassword":"password",
+	"MysqlHost":"localhost",
+	"MysqlPort":3306,
+	"MysqlDatabase":"blog",
+	"MysqlCharset":"utf8"
+}
